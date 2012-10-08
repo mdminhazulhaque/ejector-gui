@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="close">close.png</file>
+        <file alias="eject">eject.png</file>
+        <file alias="icon">icon.png</file>
+        <file alias="quit">quit.png</file>
+    </qresource>
+</RCC>
